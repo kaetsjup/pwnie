@@ -1,1 +1,1 @@
-# pwnie
+# pwnie - web pentest toolkit
